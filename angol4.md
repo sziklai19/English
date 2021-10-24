@@ -31,4 +31,19 @@
 
 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10|
 |---|---|---|---|---|---|---|---|---|---|---|
-| G | C | E |  |  |  |  |  |  |  |  |
+| G | C | E | J | A | F | I | L | D | K | B |
+
+## Íráskészség 1
+
+Dear Tom,
+
+My friend Jonny talked about a bicycle club that he found. Since i like cycling, i decided to join. 
+
+
+
+## Közvetítés
+
+Tömérdek látványosság, történelmi helyszínek, festői látkép található Japán 
+si fővárosában Kyoto-ban. Ez a lista most egy új elemmel bővül. A világ
+első Starbucks kávézójával, amelyben tatami szobák találhatók. 
+A Starbucks Coffee Japan Ltd. azt tervezi, hogy egy új kávézót nyit pénteken, amely az első olyan kávézó lesz a világon, ahol tatami padlók vannak egy japán stílusú házban. A Starbucks Coffee Japan azt mondta egy több mint 100 éve épült két emeletes Japán ház fog helyet adni a kávézónak, és az UNESCO által világ örökséggé nyilvánított Kiyomizu templom közelében lesz, ami egy közkedvelt túrista célpont. A tokioi központú vállalat azt mondta, a második emeleten három szoba lesz tatami-val, amit hagyományosan a padló letakarására használtak a Japán otthonokban. A hely Ninenzaka felé, az egyik Kiyomizu templom tól a Kodaiji templomig vezető népszerű út felé fog nézni, amely tele van hagyományos üzletekkel. A ház 2005-ig volt használatban és hanyományos szórakoztatóknak adott helyet mint gésa. Starbucks Coffee Japan azt mondta nem fogja engedni az embereknek, hogy sort alkossanak az épület előtt, és korlátozni fogja a fogyasztók számát a csúcsidőn belül, hogy elkerüljék a csendes légkör megzavarását a környéken.
