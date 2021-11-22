@@ -7,7 +7,7 @@
     volán mögött.
 
 2.  Figyelmeztetni szeretnék az embereket, a vezetés előtti gyógyszer
-    szedésről.
+    szedés veszélyeiről.
 
 3.  Azt gondolják az emberek, ha nem ásítanak akkor vezethetnek.
 
@@ -16,6 +16,7 @@
 
 5.  Az bonyolult kutatás ellenére, kevés adat létezik tényleges
     balesetekből, ami bizonyítaná, milyen veszélyesek ezek a gyógyszerek.
+    
 
 6.  A balesetben meghalt pilótákat rutinszerűen tesztelik gyakori
     gyógyszerekre, melyek több mint 72 esetben okoztak végzetes légi
@@ -37,7 +38,16 @@
 
 Dear Tom,
 
-My friend Jonny talked about a bicycle club that he found. Since i like cycling, i decided to join. Now i can participate in bicycle tours and competitions all around the country. I can also acces a website wher I can find useful tips and tutorials about bicycle maintenance. At the beginning of each summer they organise an event, where you can get your bike checked. I met a few people there who loves racing, and i decided to join them in the next race. We train on the weekends for 2 month. We do 50 km every time in different places. Sometimes we go up steep inclines, and sometimes we just try to complete the 40km on a flat road as fast as possible. Is there any similar club you can join there? Cycling with these people is so much fun. I think you would like it too.
+My friend Jonny talked about a bicycle club that he found. Since i like cycling,
+I decided to join. Now i can participate in bicycle tours and competitions all
+around the country. I can also acces a website where I can find useful tips and
+tutorials about bicycle maintenance. At the beginning of each summer they organise
+an event, where you can get your bike checked. I met a few people there who love
+racing, and I decided to join them in the next race. We train on the weekends for
+2 months. We do 50 km every time in different places. Sometimes we go up steep
+inclines, and sometimes we just try to complete the 40km on a flat road as fast
+as possible. Is there a similar club you can join there? Cycling with these
+people is so much fun. I think you would like it too.
 Anyway, maybe you could come race with us one day.
 Take care,
 Dávid
